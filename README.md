@@ -1,1 +1,3 @@
-# bootstraphomework
+# Domaci ukol bootstrap 
+Udelal Anton Kalashnikov
+
